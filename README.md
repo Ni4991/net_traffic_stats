@@ -1,5 +1,5 @@
 
-#net_traffic_stats
+# net_traffic_stats
 
 net_traffic_stats is a python tool which read and analyze Wireshark netscan dump file.
 
