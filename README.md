@@ -1,9 +1,7 @@
 
 # net_traffic_stats
 
-net_traffic_stats is a python tool which read and analyze Wireshark netscan dump file.
-
-Detail:
+net_traffic_stats is a python tool which read and analyze Wireshark netscan dump file.  
 net_traffic_stats counts the numbers of package each host sent and recieved and lists first 5 resulti in graphic mode.
 
 
