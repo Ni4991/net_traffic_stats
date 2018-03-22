@@ -5,9 +5,11 @@ net_traffic_stats is a python tool which read and analyze Wireshark netscan dump
 net_traffic_stats counts the numbers of package each host sent and recieved and lists first 5 result in graphic mode.
 
 
-# how to install
+# install python-pcapng package
 
-sudo -H pip install -r requirements.txt 
+pip install python-pcapng
+
+[source](https://github.com/rshk/python-pcapng)
 
 
 
