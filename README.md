@@ -20,4 +20,8 @@ sudo -H pip install -r requirements.txt
   
   ![graphic result](http://www.99sns.com/net_traffic_stats.png)
   
+  # Reference of resource
+  1. how to read and analyze Wireshark file: https://github.com/rshk/python-pcapng/tree/master/examples 
+  2. how to draw bars: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.subplot.html 
+  
   
